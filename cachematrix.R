@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Create a matrix, find its inverse to cache
+## TG - Feb 19, 2020
 
 ## Creates a matrix and stores objects in the function environment for later use
 makeCacheMatrix <- function(x = matrix()) {
